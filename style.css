@@ -18,6 +18,21 @@ body {
     text-align: center;
 }
 
+.nasockc{
+    height: 0%;
+    text-align: start;
+
+}
+
+.nasockcs{
+    height: 0%;
+    text-align: end;
+    
+}
+
+
+
+
 .container {
     max-width: 800px;
     margin: 0 auto;
